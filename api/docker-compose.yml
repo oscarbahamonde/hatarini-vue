@@ -1,0 +1,16 @@
+version: '3.3'
+services:
+  db:
+    image: postgres:latest
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=mysecretpassword
+      - POSTGRES_DB=mydb
+      - POSTGRES_URI=postgresql://postgres:mysecretpassword@localhost:5432/mydb
+    volumes:
+      - ~/.data/postgres:/var/lib/postgresql/data
+    restart: always
+    networks:
+      - default

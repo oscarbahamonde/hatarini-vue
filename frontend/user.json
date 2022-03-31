@@ -1,0 +1,39 @@
+{
+  "user": {
+    "uid": "K8dxD2g8oGSc3v1GDwylEoMtyQu1",
+    "email": "dev@oscarbahamonde.cloud",
+    "emailVerified": true,
+    "isAnonymous": false,
+    "providerData": [
+      {
+        "providerId": "password",
+        "uid": "dev@oscarbahamonde.cloud",
+        "displayName": null,
+        "email": "dev@oscarbahamonde.cloud",
+        "phoneNumber": null,
+        "photoURL": null
+      }
+    ],
+    "stsTokenManager": {
+      "refreshToken": "AIwUaOlqFDwwlmg9r44MCKQU9tiYRtOEzrVDRxy2lJHaSUMpgummydnfICOlAg7kwaE89oro5Ws76Uxvt73DaRgISQ-nQaXxfrmKrVylQ6z6-zVCDFNjiLNG8eksnxtcUhaelyPPJdeJtiRsOSWSZnRz94_Qehf_Pm793HmCUd6izS3xYn75htvDq3YOMHPj77t5MMddsSKeMC_vErFmgr2wxDF7VmwKXQ",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ2NDExN2FjMzk2YmM3MWM4YzU5ZmI1MTlmMDEzZTJiNWJiNmM2ZTEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vaGF0YXJpbmkiLCJhdWQiOiJoYXRhcmluaSIsImF1dGhfdGltZSI6MTY0ODY0MzQ3OSwidXNlcl9pZCI6Iks4ZHhEMmc4b0dTYzN2MUdEd3lsRW9NdHlRdTEiLCJzdWIiOiJLOGR4RDJnOG9HU2MzdjFHRHd5bEVvTXR5UXUxIiwiaWF0IjoxNjQ4NjQzNDc5LCJleHAiOjE2NDg2NDcwNzksImVtYWlsIjoiZGV2QG9zY2FyYmFoYW1vbmRlLmNsb3VkIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGV2QG9zY2FyYmFoYW1vbmRlLmNsb3VkIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.cHGCqjM024Tgd05QQ-JIPiOJ950G3lZwVbVqX0UzoJ84Z60nPV2Fsnss5kD02Z7U70quI7pmv4Da-iWsfNrx4m0EY29Vw0-fOMzCsKigJL_MVcCB1yabY5qmBxR1qo1m5n4ij7Rga8S0QFIW823FSfNDW0jnsNbshzxY4FQbmxyw7SkV-lVkl7dL3FxCN_H4cgPEyE8lAxAAP8YlcT0rdgPcwcpwlfrkz6uejNAYKtOposXuL3ohqpi7NBW_onkpAv55CWFIo2-G7g42t1_xw6FMvc57WP0iwZu2RvaUBZxEu94mws3ikdWIjGgPDFQHbpUH22gmn-ITrym5XyiVJw",
+      "expirationTime": 1648647079471
+    },
+    "createdAt": "1648633697396",
+    "lastLoginAt": "1648643479338",
+    "apiKey": "AIzaSyDFFN2dcclVbcunKXYR2pLfzTGkKELNzD0",
+    "appName": "[DEFAULT]"
+  },
+  "providerId": null,
+  "_tokenResponse": {
+    "kind": "identitytoolkit#VerifyPasswordResponse",
+    "localId": "K8dxD2g8oGSc3v1GDwylEoMtyQu1",
+    "email": "dev@oscarbahamonde.cloud",
+    "displayName": "",
+    "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ2NDExN2FjMzk2YmM3MWM4YzU5ZmI1MTlmMDEzZTJiNWJiNmM2ZTEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vaGF0YXJpbmkiLCJhdWQiOiJoYXRhcmluaSIsImF1dGhfdGltZSI6MTY0ODY0MzQ3OSwidXNlcl9pZCI6Iks4ZHhEMmc4b0dTYzN2MUdEd3lsRW9NdHlRdTEiLCJzdWIiOiJLOGR4RDJnOG9HU2MzdjFHRHd5bEVvTXR5UXUxIiwiaWF0IjoxNjQ4NjQzNDc5LCJleHAiOjE2NDg2NDcwNzksImVtYWlsIjoiZGV2QG9zY2FyYmFoYW1vbmRlLmNsb3VkIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGV2QG9zY2FyYmFoYW1vbmRlLmNsb3VkIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.cHGCqjM024Tgd05QQ-JIPiOJ950G3lZwVbVqX0UzoJ84Z60nPV2Fsnss5kD02Z7U70quI7pmv4Da-iWsfNrx4m0EY29Vw0-fOMzCsKigJL_MVcCB1yabY5qmBxR1qo1m5n4ij7Rga8S0QFIW823FSfNDW0jnsNbshzxY4FQbmxyw7SkV-lVkl7dL3FxCN_H4cgPEyE8lAxAAP8YlcT0rdgPcwcpwlfrkz6uejNAYKtOposXuL3ohqpi7NBW_onkpAv55CWFIo2-G7g42t1_xw6FMvc57WP0iwZu2RvaUBZxEu94mws3ikdWIjGgPDFQHbpUH22gmn-ITrym5XyiVJw",
+    "registered": true,
+    "refreshToken": "AIwUaOlqFDwwlmg9r44MCKQU9tiYRtOEzrVDRxy2lJHaSUMpgummydnfICOlAg7kwaE89oro5Ws76Uxvt73DaRgISQ-nQaXxfrmKrVylQ6z6-zVCDFNjiLNG8eksnxtcUhaelyPPJdeJtiRsOSWSZnRz94_Qehf_Pm793HmCUd6izS3xYn75htvDq3YOMHPj77t5MMddsSKeMC_vErFmgr2wxDF7VmwKXQ",
+    "expiresIn": "3600"
+  },
+  "operationType": "signIn"
+}

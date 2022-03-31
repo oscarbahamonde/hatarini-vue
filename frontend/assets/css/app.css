@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans+KR&family=IBM+Plex+Serif&family=Patrick+Hand&display=swap");
+@import url("@mdi/font/css/materialdesignicons.css");
+@import url("tailwindcss/base.css");
+.font-serif {
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.font-sans {
+  font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+.font-mono {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.font-script {
+  font-family: 'Patrick Hand', cursive;
+}
+
+i {
+  @apply mdi;
+  @apply text-2xl;
+}
+
+i:hover {
+  @apply text-3xl;
+  @apply transition-all;
+}
+
+.nuxt-link-exact-active {
+  -webkit-animation: neon 1s ease-in-out infinite alternate;
+          animation: neon 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes neon {
+  from {
+    color: rgba(28, 137, 34, 0);
+    text-shadow: 0 0 1px #73D977, 0 0 5px #07520A, 0 0 1px #1cbb22, 0 0 2px #1cbb22, 0 0 3px #79d97d;
+  }
+  to {
+    color: rgba(28, 137, 34, 0);
+    text-shadow: 0 0 1.5px #73D977,  0 0 5px #07520A , 0 0 1px #1cbb22 , 0 0 3px #1cbb22,  0 0 4px #79d97d;
+  }
+}
+
+@keyframes neon {
+  from {
+    color: rgba(28, 137, 34, 0);
+    text-shadow: 0 0 1px #73D977, 0 0 5px #07520A, 0 0 1px #1cbb22, 0 0 2px #1cbb22, 0 0 3px #79d97d;
+  }
+  to {
+    color: rgba(28, 137, 34, 0);
+    text-shadow: 0 0 1.5px #73D977,  0 0 5px #07520A , 0 0 1px #1cbb22 , 0 0 3px #1cbb22,  0 0 4px #79d97d;
+  }
+}
+
+.wizard {
+  @apply card bg-neutral p-8 m-8 shadow-xl text-primary;
+}
+/*# sourceMappingURL=app.css.map */
